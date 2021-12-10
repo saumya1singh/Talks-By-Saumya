@@ -1,14 +1,5 @@
 # Saumya's Talks💙️
 
-<br>
-
-## How She Learned to Code & Became Mentor @Google Code In & WON SIH 2019 w/ Saumya Singh #womenintech 👩‍💻️
-I shared my Journey in Tech at BITS CAST. <a href="https://youtu.be/DSFj0H90BpI">Youtube Link</a>
-
-<a href="https://youtu.be/DSFj0H90BpI"><img src="https://user-images.githubusercontent.com/46818757/145540243-13ab0318-5365-48c1-b3e2-4b6045f570e5.png" width="700px " height="450px" /></a>   
-
-<br>
-
 
 ## Quarkus World Tour 2021 | Welcome to INDIA
 <a href="https://youtu.be/zg2XR1txhi4?t=509">Youtube Link</a>
@@ -17,6 +8,16 @@ I shared my Journey in Tech at BITS CAST. <a href="https://youtu.be/DSFj0H90BpI"
 
 
 <br>
+<br>
+
+## How She Learned to Code & Became Mentor @Google Code In & WON SIH 2019 w/ Saumya Singh #womenintech 👩‍💻️
+I shared my Journey in Tech at BITS CAST. <a href="https://youtu.be/DSFj0H90BpI">Youtube Link</a>
+
+<a href="https://youtu.be/DSFj0H90BpI"><img src="https://user-images.githubusercontent.com/46818757/145540243-13ab0318-5365-48c1-b3e2-4b6045f570e5.png" width="700px " height="450px" /></a>   
+
+<br>
+<br>
+
 
 ## Navigating Success with Saumya ✨️
 On Google Meet
