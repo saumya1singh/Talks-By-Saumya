@@ -70,7 +70,7 @@ Completed Women Who Code Delhi Mentorship Program 3.0 as a Mentor.
 ## Open Source Summit India 2021
 <a href="https://youtu.be/DSFj0H90BpI">Youtube Link</a>
 
-<img src="https://user-images.githubusercontent.com/46818757/145544775-7e9ec089-1e03-4e8a-a353-a004182042ad.png" width="550px " height="450px" /> 
+<img src="https://user-images.githubusercontent.com/46818757/145544775-7e9ec089-1e03-4e8a-a353-a004182042ad.png" width="550px " height="400px" /> 
 
 <br>
 <br>
